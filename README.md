@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/FaizaSiddiqu/Unit_Conevrter_python_project.git
+git clone https://github.com/FaizaSiddiqu/Unit_Converter_python_project.git
 cd unit-converter-app
 Install the required dependencies:
 
