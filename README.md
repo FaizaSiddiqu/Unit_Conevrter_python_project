@@ -27,7 +27,7 @@ Click the Convert button, and the app will instantly display the result!
 
 ## Demo
 You can try the live demo of the Unit Converter App here:
-Streamlit App
+https://unitconevrterpythonproject.streamlit.app/
 
 ### Setup and Installation
 Follow these steps to run the project locally:
@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/unit-converter-app.git
+git clone https://github.com/FaizaSiddiqu/Unit_Conevrter_python_project.git
 cd unit-converter-app
 Install the required dependencies:
 
